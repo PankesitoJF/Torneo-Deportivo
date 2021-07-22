@@ -1,0 +1,29 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/96/23/9b/96239bf09550b1cc00a38ebfbc2776b1.gif);
+  background-size: cover;
+}
+
+.primera-linea{
+  display: flex;
+}
+
+.torneos{
+  background-color: white;
+  width: 20%;
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.torneos:hover{
+  background-color: #191919;
+  color:white;
+}
+
+.img-copa{
+  width: 100%;
+}
+
+.texto-cards{
+  text-align: center;
+}

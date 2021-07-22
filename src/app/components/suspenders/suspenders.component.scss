@@ -1,0 +1,14 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/96/23/9b/96239bf09550b1cc00a38ebfbc2776b1.gif);
+  background-size: cover;
+}
+.card {
+  margin-bottom: 5%;
+  background-color: #191919;
+  color: white;
+}
+.card:hover{
+  background-color: #191919;
+  box-shadow: 20px 15px 15px #245c5d;
+  margin-bottom: 15%;
+}
